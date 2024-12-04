@@ -46,3 +46,10 @@ play with this code within reason.
 I am not responsible for any of the consequences of anyone running the code from tinynets anywhere,
 at any time.
 
+## Current Todo List 
+
+- Explore the torch tensor in a bit more detail in a notebook
+- setup a website to share my deep learning work
+- figure out how a website can communicate with a neural network.
+- build a small interface to train tiny neural networks from a web client.
+    - this will probably be a react app that will make calls to an nn.Module in pytorch
