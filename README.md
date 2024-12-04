@@ -1,6 +1,6 @@
 # tinynets
 
-## Inspiration & Motication
+## Inspiration & Motivation
 
 Neural Networks are everywhere now, that happened quickly though perhaps not too "out of the blue",
 if you have been following along. It is so easy to feel discouraged that the field is moving so fast
